@@ -9,11 +9,11 @@
 
 ## 🚀 About Me
 
-- 💻 Full-stack developer passionate about building scalable web applications  
-- 🧠 Strong foundation in Data Structures & Algorithms (C/C++)  
-- ⚙️ Interested in Backend Systems, APIs & System Design  
-- 📚 Currently diving deeper into TypeScript, PostgreSQL, Docker & scalable architectures  
-- 🎯 Goal: Becoming a strong backend/system-focused engineer  
+- I am a Full-stack developer working mainly with the MERN stack (MongoDB, Express, React, Node.js)
+- Comfortable building complete web apps — APIs, authentication, database design, and responsive frontends
+- Interested in Backend Systems, APIs, and System Design
+- Currently learning and exploring TypeScript, PostgreSQL, Docker, and scalable architectures.
+- Fast learner who adapts quickly to new technologies and stacks — whatever the project demands, I pick it up and get moving
 
 ---
 
