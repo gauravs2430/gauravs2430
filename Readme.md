@@ -102,8 +102,7 @@
 ---
 
 # 🌱 Currently Exploring
-
-- 🏗 System Design fundamentals  
+- ☕️ Javascript and its frameworks in deep
 - ⚡ Backend performance optimization  
 - 🔐 Secure authentication & authorization  
 - ☁️ Cloud deployments  
