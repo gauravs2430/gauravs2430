@@ -1,112 +1,91 @@
 <!-- ======================= HEADER ======================= -->
 
 <h1 align="center">Hi 👋, I'm Gaurav Soni</h1>
-<h3 align="center">Full Stack Developer | IIIT Vadodara '27</h3>
+<h3 align="center">Full Stack Developer • IIIT Vadodara '27</h3>
 
 <p align="center">
-  <em>Building scalable systems • Writing clean code • Learning deeply</em>
+  <em>Building scalable systems • Writing clean code • Backend-focused engineering</em>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gauravs2430&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/gauravs2430?label=Followers&style=flat" />
+  <img src="https://img.shields.io/github/stars/gauravs2430?affiliations=OWNER&style=flat" />
 </p>
 
 ---
 
-<!-- ======================= ABOUT ======================= -->
-
 ## 👨‍💻 About Me
 
-- 💻 Full-stack developer passionate about building scalable web applications  
+- 💻 Full-stack developer focused on scalable backend systems  
 - 🧠 Strong foundation in Data Structures & Algorithms  
-- ⚙️ Interested in Backend Systems & System Design  
+- ⚙️ Interested in System Design & distributed systems  
 - 📚 Currently exploring TypeScript, PostgreSQL & Docker  
-- 🎯 Focused on becoming a strong backend/system engineer  
+- 🎯 Aiming to become a strong backend / systems engineer  
 
 ---
-
-<!-- ======================= TECH STACK ======================= -->
 
 # 🛠 Tech Stack
 
 ---
 
 ### 💻 Languages
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python,bash" />
 </p>
 
 ---
 
-### 🌐 Frontend Development
+### 🌐 Frontend
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="45"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind,vite" />
 </p>
 
 ---
 
-### 🧩 Backend Development
+### 🧩 Backend
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" height="45"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 </p>
 
 ---
 
-### 🔐 Authentication & Security
+### 🗄 Databases
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jsonwebtoken/jsonwebtoken-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" title="bcryptjs"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" title="cookie-parser"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="45" title="CORS"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ---
 
-### 🖼 File & Media Handling
+### 🔐 Authentication & API Layer
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" title="Multer"/>
-  <img src="https://www.vectorlogo.zone/logos/imagekitio/imagekitio-icon.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/uuid/uuid-original.svg" height="45"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+</p>
+
+<p align="center">
+JWT • bcrypt • Cookies • CORS • REST APIs
 </p>
 
 ---
 
-### ⚙️ DevOps & Tooling
+### 🛠 DevOps & Tooling
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="45"/>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,vscode,postman,npm,eslint" />
 </p>
 
 ---
-
-<!-- ======================= STATS ======================= -->
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gauravs2430&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravs2430&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gauravs2430&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravs2430&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -114,32 +93,28 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=gauravs2430&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=gauravs2430&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-<!-- ======================= CURRENT FOCUS ======================= -->
-
-## 🌱 Currently Focused On
+# 🌱 Current Focus
 
 - 🏗 System Design Fundamentals  
 - ⚡ Backend performance & scalability  
-- 🔐 Authentication & Security  
-- ☁️ Cloud deployments  
+- 🔐 Secure authentication systems  
+- ☁️ Production-ready deployments  
 
 ---
-
-<!-- ======================= CONNECT ======================= -->
 
 # 📫 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gaurav-soni-0a6207282/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Gaurav%20Soni-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:gauravsoni2430@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
