@@ -79,7 +79,6 @@ JWT • bcrypt • Cookies • CORS • REST APIs
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vercel,docker,linux,git,github,githubactions,npm,postman,eslint" />
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,vscode,postman,npm,eslint" />
 </p>
 
 ---
