@@ -41,6 +41,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind,vite" />
+  <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" height="40"/>
 </p>
 
 ---
@@ -77,6 +78,7 @@ JWT • bcrypt • Cookies • CORS • REST APIs
 ### 🛠 DevOps & Tooling
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel,docker,linux,git,github,githubactions,npm,postman,eslint" />
   <img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,vscode,postman,npm,eslint" />
 </p>
 
