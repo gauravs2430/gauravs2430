@@ -24,7 +24,6 @@
 - 🎯 Aiming to become a strong backend / systems engineer  
 
 ---
-
 # 🛠 Tech Stack
 
 ---
@@ -33,6 +32,10 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python,bash" />
+</p>
+
+<p align="center">
+  C • C++ • Java • JavaScript • TypeScript • Python • Bash
 </p>
 
 ---
@@ -44,6 +47,10 @@
   <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" height="40"/>
 </p>
 
+<p align="center">
+  React • Next.js • Redux • HTML5 • CSS3 • Tailwind CSS • Vite • Framer Motion
+</p>
+
 ---
 
 ### 🧩 Backend
@@ -52,12 +59,20 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 </p>
 
+<p align="center">
+  Node.js • Express.js • MongoDB • Firebase
+</p>
+
 ---
 
 ### 🗄 Databases
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+<p align="center">
+  MongoDB • MySQL
 </p>
 
 ---
@@ -70,18 +85,20 @@
 </p>
 
 <p align="center">
-JWT • bcrypt • Cookies • CORS • REST APIs
+  JWT • bcrypt • Cookie Parser • CORS • REST APIs
 </p>
 
 ---
 
-### 🛠 DevOps & Tooling
+### 🚀 DevOps & Tooling
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vercel,docker,linux,git,github,githubactions,npm,postman,eslint" />
 </p>
 
----
+<p align="center">
+  Vercel • Docker • Linux • Git • GitHub • GitHub Actions • NPM • Postman • ESLint
+</p>
 
 # 🔥 GitHub Streak
 
