@@ -1,78 +1,77 @@
-# Hi, I’m Gaurav 👋
-
-Software Developer | IIIT Vadodara ’27
-C/C++ • JavaScript • React • MERN • DSA
+<h1 align="center">Hi 👋, I'm Gaurav Soni</h1>
+<h3 align="center">Full Stack Developer | IIIT Vadodara '27</h3>
 
 ---
 
-## 👨‍💻 Who am I?
+## 🚀 About Me
 
-I’m a software developer and undergraduate student at **IIIT Vadodara**, graduating in **2027**. I enjoy building things from scratch, understanding how systems work under the hood, and improving my problem‑solving skills through consistent practice.
-
-I like writing clean, readable code and learning by actually building projects rather than just reading about concepts.
-
----
-
-## What I’m Currently Working On
-
-* Building **full‑stack web applications** using the MERN stack
-* Strengthening **Data Structures & Algorithms** (regular LeetCode practice)
-* Improving my understanding of **JavaScript internals** and React patterns
-* Writing better, more maintainable code
+- 💻 Passionate about building scalable full-stack applications  
+- 🧠 Strong in Data Structures & Algorithms  
+- ⚙️ Interested in Backend Systems & System Design  
+- 📚 Currently learning: TypeScript, PostgreSQL & Docker  
 
 ---
 
-## What I’ve Worked On Before
+## 🛠 Tech Stack
 
-* Frontend projects using **React**, HTML, and CSS
-* Backend APIs with **Node.js**, **Express**, and **MongoDB**
-* College and personal projects focused on real‑world use cases
-* Solving algorithmic problems in **C/C++** and JavaScript
+### 💻 Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+</p>
+
+### 🌐 Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40"/>
+</p>
+
+### 🧩 Backend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
+</p>
+
+### 🗄 Database
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+</p>
+
+### ⚙ DevOps & Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+</p>
 
 ---
 
-## Tools & Technologies I Use
+## 📊 GitHub Stats
 
-**Languages**
-
-* C, C++, JavaScript
-
-**Frontend**
-
-* React, HTML, CSS
-
-**Backend**
-
-* Node.js, Express, MongoDB
-
-**Other**
-
-* Git & GitHub
-* LeetCode (DSA practice)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gauravs2430&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravs2430&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 📫 How to Reach Me
+## 🔥 GitHub Streak
 
-* GitHub: You’re already here 🙂
-* LinkedIn: *https://www.linkedin.com/in/gaurav-soni-0a6207282/*
-* Email: *gauravsoni2430@gmai.com*
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=gauravs2430&theme=tokyonight" />
+</p>
 
 ---
 
-> Learning by building. Improving with every commit.
+## 📫 Connect With Me
 
-<!--
-**gauravs8128/gauravs8128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 LinkedIn: https://www.linkedin.com/in/gaurav-soni-0a6207282/
+- 📧 Email: gauravsoni2430@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐️ *Building. Learning. Scaling.*
