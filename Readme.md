@@ -65,6 +65,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://raw.githubusercontent.com/gauravs2430/gauravs2430/main/jwt.png" height="45"/>
 </p>
 
 <p align="center">
