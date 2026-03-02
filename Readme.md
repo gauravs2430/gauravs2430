@@ -93,11 +93,11 @@
 ### 🚀 DevOps & Tooling
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,docker,linux,git,github,githubactions,npm,postman,eslint" />
+  <img src="https://skillicons.dev/icons?i=vercel,linux,git,github,npm,postman" />
 </p>
 
 <p align="center">
-  Vercel • Docker • Linux • Git • GitHub • GitHub Actions • NPM • Postman • ESLint
+  Vercel • Linux • Git • GitHub • NPM • Postman 
 </p>
 
 # 🔥 GitHub Streak
