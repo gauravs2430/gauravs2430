@@ -65,7 +65,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs" />
-  <img src="https://raw.githubusercontent.com/gauravs2430/gauravs2430/main/jwt.png" height="45"/>
+  <img src="https://raw.githubusercontent.com/gauravs2430/gauravs2430/main/icons8-jwt-48.png" height="45"/>
 </p>
 
 <p align="center">
@@ -78,15 +78,6 @@ JWT • bcrypt • Cookies • CORS • REST APIs
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,vscode,postman,npm,eslint" />
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gauravs2430&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravs2430&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
