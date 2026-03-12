@@ -16,12 +16,9 @@
 ---
 
 ## 👨‍💻 About Me
-
-- 💻 Full-stack developer focused on scalable backend systems  
-- 🧠 Strong foundation in Data Structures & Algorithms  
-- ⚙️ Interested in System Design & distributed systems  
-- 📚 Currently exploring TypeScript, PostgreSQL & Docker  
-- 🎯 Aiming to become a strong backend / systems engineer  
+- ⚙️ Interested in backend systems, APIs, auth flows & databases
+- 🧠 Currently exploring MERN and how real platforms scale
+- 😌 Portfolio khud code kiya hai… Wix drag-and-drop nahi
 
 ---
 # 🛠 Tech Stack
