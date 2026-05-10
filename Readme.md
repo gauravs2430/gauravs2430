@@ -1,5 +1,6 @@
 <!-- ======================= HEADER ======================= -->
 
+<h1 align="center">I wish I started coding when I was 9 😔😤</h1>
 <h1 align="center">Hi 👋, I'm Gaurav Soni</h1>
 <h3 align="center">Backend-Focused Full Stack Developer • IIIT Vadodara '27</h3>
 
