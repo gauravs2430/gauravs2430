@@ -1,10 +1,10 @@
 <!-- ======================= HEADER ======================= -->
 
 <h1 align="center">Hi 👋, I'm Gaurav Soni</h1>
-<h3 align="center">Full Stack Developer • IIIT Vadodara '27</h3>
+<h3 align="center">Backend-Focused Full Stack Developer • IIIT Vadodara '27</h3>
 
 <p align="center">
-  <em>Building scalable systems • Writing clean code • Backend-focused engineering</em>
+  <em>Building scalable systems • Secure auth flows • Production-style web apps</em>
 </p>
 
 <p align="center">
@@ -16,11 +16,30 @@
 ---
 
 ## 👨‍💻 About Me
-- ⚙️ Interested in backend systems, APIs, auth flows & databases
-- 🧠 Currently exploring MERN and how real platforms scale
+
+- 🎓 B.Tech CSE student at IIIT Vadodara
+- ⚙️ Interested in backend systems, APIs, authentication flows & databases
+- 🚀 Building full-stack products with React, Node.js, Express & MongoDB
+- 🔐 Currently exploring OAuth, JWT, protected routes & production auth systems
+- 🧠 Learning system design and how real platforms scale
 - 😌 Portfolio khud code kiya hai… Wix drag-and-drop nahi
 
 ---
+
+# 🚀 Currently Building
+
+### 🧠 TruthMentor
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,postgres,nodejs" />
+</p>
+
+<p align="center">
+  AI-powered mentorship and roadmap platform with OAuth authentication, protected dashboards and PostgreSQL-backed data.
+</p>
+
+---
+
 # 🛠 Tech Stack
 
 ---
@@ -54,10 +73,11 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="45"/>
 </p>
 
 <p align="center">
-  Node.js • Express.js • MongoDB • Firebase
+  Node.js • Express.js • MongoDB • PostgreSQL • Firebase
 </p>
 
 ---
@@ -65,11 +85,11 @@
 ### 🗄 Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </p>
 
 <p align="center">
-  MongoDB • MySQL
+  MongoDB • MySQL • PostgreSQL
 </p>
 
 ---
@@ -79,23 +99,81 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs" />
   <img src="https://raw.githubusercontent.com/gauravs2430/gauravs2430/main/icons8-jwt-48.png" height="45"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/google-g-2015.svg" height="40"/>
 </p>
 
 <p align="center">
-  JWT • bcrypt • Cookie Parser • CORS • REST APIs
+  JWT • OAuth • bcrypt • Cookie Parser • CORS • REST APIs • Zod
 </p>
 
 ---
 
-### 🚀 DevOps & Tooling
+### ☁️ DevOps & Tooling
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vercel,linux,git,github,npm,postman" />
 </p>
 
 <p align="center">
-  Vercel • Linux • Git • GitHub • NPM • Postman 
+  Vercel • Render • Linux • Git • GitHub • NPM • Postman
 </p>
+
+---
+
+# 🔥 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎬 ZomoReels
+
+A reel-based food discovery platform inspired by short-form video apps.
+
+**Highlights**
+- Dual-role JWT authentication
+- HttpOnly cookie-based sessions
+- Like, save & bookmark features
+- ImageKit media upload pipeline
+- REST API architecture
+- Zod-based validation
+
+**Stack**
+
+React 19 • Node.js • Express • MongoDB • JWT • Zod • Multer • ImageKit
+
+</td>
+<td width="50%">
+
+### 🌱 Smart Agriculture System
+
+IoT-based monitoring and decision-support platform for crop recommendations.
+
+**Highlights**
+- Real-time soil monitoring dashboard
+- Crop and fertilizer recommendation logic
+- REST APIs with MongoDB schemas
+- Chart.js visualizations
+- Team project leadership
+
+**Stack**
+
+React • Vite • Node.js • Express • MongoDB • Tailwind CSS • Chart.js
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gauravs2430&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravs2430&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
 
 # 🔥 GitHub Streak
 
@@ -111,6 +189,15 @@
 - ⚡ Backend performance & scalability  
 - 🔐 Secure authentication systems  
 - ☁️ Production-ready deployments  
+- 🧩 Clean API and database design  
+
+---
+
+# 🎸 Beyond Coding
+
+- 🎸 Lead Guitarist — Encore Music Club, IIIT Vadodara
+- 🏀 Former Basketball Team Lead
+- 🎤 Always up for music, fests and building cool things
 
 ---
 
