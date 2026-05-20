@@ -1,6 +1,6 @@
 <!-- ======================= HEADER ======================= -->
 
-<h1 align="center">I wish I started coding when I was 9 😔😤</h1>
+<h1 align="center">I Choose peace over Engineering</h1>
 <h1 align="center">Hi 👋, I'm Gaurav Soni</h1>
 <h3 align="center">Backend-Focused Full Stack Developer • IIIT Vadodara '27</h3>
 
@@ -216,5 +216,8 @@ React • Vite • Node.js • Express • MongoDB • Tailwind CSS • Chart.js
 ---
 
 <p align="center">
-  ⭐ <em>Building systems. Writing clean code. Improving every day.</em>
+   <em>Part-time developer, full-time smoker.
+Thanks for reaching the end of the README.
+I hope your days get wasted as efficiently as mine.
+</em>
 </p>
